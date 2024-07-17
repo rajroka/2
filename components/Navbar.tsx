@@ -19,7 +19,7 @@ const Navbar = () => {
                 <span>Logo </span>
             </div>
 
-            <input placeholder='search' className='p-2 rounded-xl outline outline-1 outline-blue-300 hover:outline-2   ' />
+            <input placeholder='search' className='p-2 rounded-xl outline outline-1 outline-blue-300 hover:outline-2  sm:hidden  ' />
 
 
             <div className='flex  items-center justify-between space-x-2 '>
